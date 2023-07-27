@@ -21,5 +21,10 @@ No IntelliJ, você precisa ir em Settings -> Build, Execution, Deployment -> Com
 (toda vez que abre o projeto)
 Também em Settings -> Advanced Settings -> Compiler e marcar a checkbox Allow auto-make to start...
 
+Inicializar o projeto pela classe principal na IDE
+
+
+https://spring.io/quickstart
+Endpoint - caminho para o metodo
 
 
