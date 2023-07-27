@@ -1,2 +1,25 @@
 PWEBII
 20202010350550
+
+Material da disciplina: https://fagno.github.io/pwebii-spring-ifto/
+Material complementar: https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html
+
+https://mvnrepository.com/
+
+https://fagno.github.io/pwebii-spring-ifto/spring/
+aluno@labmob09:~$ javac -version
+
+https://start.spring.io/
+maven java11 3.1.2 
+Group {dominio reverso}
+Dependências:
+- Spring Web
+- DevTools
+- h2 Database
+
+No IntelliJ, você precisa ir em Settings -> Build, Execution, Deployment -> Compiler e marcar a checkbox Build project automatically.
+(toda vez que abre o projeto)
+Também em Settings -> Advanced Settings -> Compiler e marcar a checkbox Allow auto-make to start...
+
+
+
